@@ -25,9 +25,9 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     })
 
-    $("#hire").click(function(e){
-        alert("Send Mail To Email mentioned in contact section");
-    })
+//     $("#hire").click(function(e){
+//         alert("Send Mail To Email mentioned in contact section");
+//     })
 
     //typing animation
 
