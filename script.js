@@ -32,14 +32,14 @@ $(document).ready(function(){
     //typing animation
 
     var typed = new Typed(".typing" , {
-        strings : ["Software Developer" ,  "Engineer", "Student", "PepCoder"],
+        strings : ["Software Developer" ,  "Engineer","PepCoder","Student" ],
         typeSpeed : 100,
         backSpeed: 60,
         loop : true
     })
 
     var typed = new Typed(".typing-2" , {
-        strings : ["Software Developer" ,  "Engineer", "Student", "PepCoder"],
+        strings : ["Software Developer" ,  "Engineer", "PepCoder","Student" ],
         typeSpeed : 100,
         backSpeed: 60,
         loop : true
