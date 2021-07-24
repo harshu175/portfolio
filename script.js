@@ -48,7 +48,7 @@ $(document).ready(function(){
     //owl-carousel script
     $('.carousel').owlCarousel({
         margin : 20,
-        loop : false,
+        loop : true,
         autoplayTimeOut : 2000,
         autoplayHoverPause : true,
         reponsive : {
